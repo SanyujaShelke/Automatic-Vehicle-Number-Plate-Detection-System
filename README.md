@@ -4,7 +4,6 @@
 
 ## Table of Contents
 - [Automatic Vehicle Number Plate Detection System](#automatic-vehicle-number-plate-detection-system)
-  - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Technologies Used](#technologies-used)
   - [System Architecture](#system-architecture)
