@@ -1,6 +1,6 @@
 # Automatic Vehicle Number Plate Detection System
 
-![](static/images/Car.png)
+![](static/images/car.png)
 
 ## Table of Contents
   - [Introduction](#introduction)
