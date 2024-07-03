@@ -3,7 +3,6 @@
 ![](static/images/Car.png)
 
 ## Table of Contents
-- [Automatic Vehicle Number Plate Detection System](#automatic-vehicle-number-plate-detection-system)
   - [Introduction](#introduction)
   - [Technologies Used](#technologies-used)
   - [System Architecture](#system-architecture)
